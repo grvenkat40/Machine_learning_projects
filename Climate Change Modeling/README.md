@@ -1,4 +1,4 @@
-# 🌍 Climate Change Modeling Using NLP
+# 🌍 Climate Change Modeling 
 
 This project analyzes public sentiment on climate change using user comments from NASA's official climate change Facebook page. By applying Natural Language Processing (NLP), we extract insights into how people perceive and react to climate-related content over time.
 
